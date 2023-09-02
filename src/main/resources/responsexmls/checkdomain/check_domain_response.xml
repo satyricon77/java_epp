@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EPP commandResponseTime="391.102" responsePath="EPP_NJ_US,API3_AU" tld="org">
+    <CheckDomainReply>
+        <domainNamesOk>NOK</domainNamesOk>
+    </CheckDomainReply>
+</EPP>

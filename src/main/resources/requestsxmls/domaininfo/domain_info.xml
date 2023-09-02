@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EPP tld="pl">
+    <InfoDomain>
+        <domainName>example.pl</domainName>
+        <password>[hidden]</password>
+    </InfoDomain>
+</EPP>

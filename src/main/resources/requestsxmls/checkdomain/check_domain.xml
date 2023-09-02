@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EPP tld="com">
+    <CheckDomain>
+        <domainNames>test.com</domainNames>
+    </CheckDomain>
+    <trId>TEST1234</trId>
+</EPP>
